@@ -1,4 +1,9 @@
-# Regression Template
+"""
+
+Created on Tue Dec  5 17:17:45 2017
+@author: Aksharaa Sundarrajan
+
+"""
 
 # Importing the libraries
 import numpy as np
